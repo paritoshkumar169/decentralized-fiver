@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /Users/paritoshkumar/Desktop/web3
+git add .
+git commit -m "Automated commit"
+git push origin main
+
